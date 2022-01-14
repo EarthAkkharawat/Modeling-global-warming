@@ -18,7 +18,7 @@ to the data points of training data set. It returns the coefficients for each of
 def generate_models(x, y, degs):
     models = []
     for degree in degs:
-        model = np.polyfit(x, y, degree)
+        model = numpy.polyfit(x, y, degree)
         models.append(model)
     return models
 ```
