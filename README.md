@@ -60,5 +60,5 @@ In addition to raising temperature, global warming also makes temperatures more 
 <img src="./assets/temp_variation.jpg">
 </div>
 
-A continually decrease in standard deviation would suggest that temperature variation is getting narrower over these years.
+A standard deviation graph over these years might suggest that temperature variation is fluctuate in a downward trend.
 
