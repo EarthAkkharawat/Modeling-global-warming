@@ -27,12 +27,12 @@ def generate_models(x, y, degs):
 <img src="./assets/random_day_in_year.jpg">
 </div>
 
-### Graph of the trend toward annual temperature of random city
+### Graph of the trend toward average annual temperature of random city
 <div align="center">
 <img src="./assets/avg_annual_tem_random_city.jpg">
 </div>
 
-### Graph of the trend toward national annual temperature
+### Graph of the trend toward national average annual averaged temp over the 21 cities
 <div align="center">
 <img src="./assets/nation_avg_annual_temp.jpg">
 </div>
