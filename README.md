@@ -1,6 +1,7 @@
 # Modeling-global-warming
 
 ## Details
+President-elect Donald Trump said in 2012 that he believed climate change was a hoax created by China, I will attempt to prove this statement.
 This repository introduces the fundamental model using regression analysis of climate of different areas in the United States in order to find evidence of global warming. 
 
 
