@@ -1,4 +1,4 @@
-# Modeling-global-warming-
+# Modeling-global-warming
 
 ## Details
 This repository introduces the fundamental model using regression analysis of climate of different areas in the United States in order to find evidence of global warming. 
