@@ -67,5 +67,10 @@ In addition to raising temperature, global warming also makes temperatures more 
 <img src="./assets/temp_variation.jpg">
 </div>
 
-A standard deviation graph over these years might suggest that temperature variation is fluctuate in a downward trend.
+**Same graph on larger y-axis scale**
+<div align="center">
+<img src="./assets/temp_variation_largescale.jpg">
+</div>
+
+A standard deviation graph over these years might suggest that temperature variation is fluctuate in a stable trend.
 
