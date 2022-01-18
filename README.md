@@ -44,6 +44,12 @@ def generate_models(x, y, degs):
 </div>
 
 Therefore, we obtain the model which the data are less noisy and have clearer temperature change trends. 
+
+**Same graph on larger y-axis scale**
+<div align="center">
+<img src="./assets/moving_avg _temp_train__largescaale.jpg">
+</div>
+
 ## Predicting the Future
 Use data from 2010-2015 to simulate the future. The data from 1961-2009 is the training data set that model is created on, and data from 2010-2015 is the test data set which I 
 predict the values for. Model performance on test data is evaluated by [Root Mean Square Error (RMSE)](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
